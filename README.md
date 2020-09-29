@@ -24,7 +24,8 @@ Shaila Jamal (McMaster University)
 Hossain Mohiuddin (University of California, Davis)  
 Antonio Paez (McMaster University)
 
-Forthcoming in Transportation Research Part D: Transport and Environment
+Transportation Research Part D: Transport and Environment (2020)
+87:102525, <https://doi.org/10.1016/j.trd.2020.102525>
 
 ## Abstract
 
@@ -633,7 +634,7 @@ Mean
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Age 1
 
@@ -659,7 +660,7 @@ Dummy variable: 1 if Age 18-25 years
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Age 2
 
@@ -685,7 +686,7 @@ Dummy variable: 1 if Age 26-35 years
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Age 3
 
@@ -711,7 +712,7 @@ Dummy variable: 1 if Age 36-45 years
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Age 4
 
@@ -737,7 +738,7 @@ Dummy variable: 1 if Age More than 45 years
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Gender
 
@@ -763,7 +764,7 @@ Dummy variable: 1 if Male
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Occupation (Student)
 
@@ -789,7 +790,7 @@ Dummy variable: 1 if Student
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Occupation (Full time employed)
 
@@ -815,7 +816,7 @@ Dummy variable: 1 if Full time employed
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Income
 
@@ -841,7 +842,7 @@ BDT
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Household Size
 
@@ -867,7 +868,7 @@ Number of people
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Number of vehicles
 
@@ -893,7 +894,7 @@ Number of vehicles
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Number of bicycles
 
@@ -929,7 +930,7 @@ Number of bicycles
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Commute duration (min)
 
@@ -955,7 +956,7 @@ Minutes
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Duration of daily biking (min)
 
@@ -981,7 +982,7 @@ Minutes
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Cyclist\_mode (Non-Bicyclist)
 
@@ -1007,7 +1008,7 @@ Dummy variable: 1 if respondent’s Daily Bike Time = 0
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Cyclist\_mode (Cyclist Type 1)
 
@@ -1033,7 +1034,7 @@ Dummy variable: 1 if respondent’s 0 \> Daily Bike Time \<= 25
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Cyclist\_mode (Cyclist Type 2)
 
@@ -1059,7 +1060,7 @@ Dummy variable: 1 if respondent’s 25 \> Daily Bike Time \<= 40
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Cyclist\_mode (Cyclist Type 3)
 
@@ -1085,7 +1086,7 @@ Dummy variable: 1 if respondent’s 40 \> Daily Bike Time \<= 115
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Cyclist\_mode (Cyclist Type 4)
 
@@ -1121,7 +1122,7 @@ Dummy variable: 1 if respondent’s Daily Bike Time \>= 115
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety from crime during the day (poor)
 
@@ -1147,7 +1148,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety from crime during the day (moderate)
 
@@ -1173,7 +1174,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety from crime during the day (good)
 
@@ -1199,7 +1200,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety while walking in the main roads (poor)
 
@@ -1225,7 +1226,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety while walking in the main roads (moderate)
 
@@ -1251,7 +1252,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived safety while walking in the main roads (good)
 
@@ -1287,7 +1288,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived walking condition of the neighborhood (poor)
 
@@ -1313,7 +1314,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived walking condition of the neighborhood (moderate)
 
@@ -1339,7 +1340,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived walking condition of the neighborhood (good)
 
@@ -1365,7 +1366,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived cycling condition of the neighborhood (poor)
 
@@ -1391,7 +1392,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived cycling condition of the neighborhood (moderate)
 
@@ -1417,7 +1418,7 @@ Likert scale
 
 <tr>
 
-<td style="text-align:left; padding-left: 2em;" indentlevel="1">
+<td style="text-align:left; padding-left:  2em;" indentlevel="1">
 
 Perceived cycling condition of the neighborhood (good)
 
@@ -3586,8 +3587,8 @@ Regional and City Planning* 25 (3): 174–91.
 Cleland, V. J., A. Timperio, and D. Crawford. 2008. “Are Perceptions of
 the Physical and Social Environment Associated with Mothers’ Walking for
 Leisure and for Transport? A Longitudinal Study.” Journal Article.
-*Preventive Medicine* 47 (2): 188–93. [ISI:000258560300008
-http://ac.els-cdn.com/S0091743508002703/1-s2.0-S0091743508002703-main.pdf?\_tid=128949ee-0453-11e7-8058-00000aacb360\&acdnat=1489014229\_97f3dd694b9003d735c51e638c70027f](ISI:000258560300008%0Ahttp://ac.els-cdn.com/S0091743508002703/1-s2.0-S0091743508002703-main.pdf?_tid=128949ee-0453-11e7-8058-00000aacb360&acdnat=1489014229_97f3dd694b9003d735c51e638c70027f).
+*Preventive Medicine* 47 (2): 188–93.
+[ISI:000258560300008&#10;http://ac.els-cdn.com/S0091743508002703/1-s2.0-S0091743508002703-main.pdf?\_tid=128949ee-0453-11e7-8058-00000aacb360\&acdnat=1489014229\_97f3dd694b9003d735c51e638c70027f](ISI:000258560300008%0Ahttp://ac.els-cdn.com/S0091743508002703/1-s2.0-S0091743508002703-main.pdf?_tid=128949ee-0453-11e7-8058-00000aacb360&acdnat=1489014229_97f3dd694b9003d735c51e638c70027f).
 
 </div>
 
